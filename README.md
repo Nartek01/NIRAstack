@@ -1,4 +1,4 @@
-# NIRAstack
+# NIRA Stack
 A tech stack play initialism, NIRA is also the name of my daughter.
 NIRA:
 N: Node.js (server-side JavaScript runtime environment)
