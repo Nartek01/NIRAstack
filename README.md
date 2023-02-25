@@ -1,6 +1,5 @@
 # NIRA Stack
 A tech stack play initialism, NIRA is also the name of my daughter.
-NIRA:
 <ul>
 <li>N: Node.js (server-side JavaScript runtime environment)</li>
 <li>I: Ionic (open-source UI toolkit for building mobile and web apps)</li>
